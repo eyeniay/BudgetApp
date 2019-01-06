@@ -5,20 +5,20 @@ Home Screen
 ===
 When user opens the iOS application, home page will be shown to user. 		On this screen the user will be able to current three spending and happiness ratio. 
 
-![ScreenShot](http://i.hizliresim.com/373Z7O.png)
+![ScreenShot](https://imageshack.com/a/img921/5857/g3u6Ss.png)
 
 Spending Screen
 ===
 When the user enter the spending screen, spending money field and categories can be displayed on the screen. The user will choosing next button to continue adding. The user can add notes, images and happiness face on this page.
 
-![ScreenShot](http://i.hizliresim.com/m3ayJV.png)
-![ScreenShot](http://i.hizliresim.com/V0GnrV.png)
+![ScreenShot](https://imageshack.com/a/img921/5968/Iheuyt.png)
+![ScreenShot](https://imageshack.com/a/img922/930/536zHj.png)
 
 Total Spending Screen
 ===
 The all spending data can be displayed on the screen. 
 
-![ScreenShot](http://i.hizliresim.com/X0j1P6.png)
+![ScreenShot](https://imageshack.com/a/img922/238/yKnKJ5.png)
 
 License
 ===
